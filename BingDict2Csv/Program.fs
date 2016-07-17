@@ -1,6 +1,6 @@
 ﻿open FSharp.Data
 
-type MyVocabularyBook = XmlProvider< @"C:\Users\pgw19\OneDrive\Documents\BingDictionary\1000.xml">
+type MyVocabularyBook = XmlProvider< @"xml-example.xml">
 
 [<EntryPoint>]
 let main argv =
